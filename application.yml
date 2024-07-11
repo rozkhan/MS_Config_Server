@@ -1,1 +1,3 @@
-application.name=api
+spring:
+  application:
+    name: MS_Config_Server
